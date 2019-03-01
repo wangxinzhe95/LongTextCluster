@@ -1,0 +1,23 @@
+
+Hadoop2.2.0安装配置手册！完全分布式Hadoop集群搭建过程~（心血之作啊~~）
+http://blog.csdn.net/licongcong_0224/article/details/12972889
+
+Hadoop集群（第6期）_WordCount运行详解http://www.cnblogs.com/xia520pi/archive/2012/05/16/2504205.html
+
+HDFS基本文件常用命令http://www.linuxidc.com/Linux/2013-09/89658.htm
+
+Mahout – Clustering (聚类篇)http://www.coder4.com/archives/4181
+
+ubuntu下安装、启动和卸载SSHhttp://blog.csdn.net/swuteresa/article/details/9377169
+
+ssh配置无密码登录http://blog.csdn.net/hongweigg/article/details/39995211
+
+linux下面如何将文件编码批量转化http://blog.csdn.net/ownfire/article/details/8295443
+
+Mahout 中文分类http://www.tuicool.com/articles/vEju6bJ
+使用mahout对Sogou语料库进行分类http://www.tuicool.com/articles/JRRRZn
+使用Mahout Kmeans算法进行中文聚类http://weikey.me/articles/133.html
+
+Handling Error: Found interface org.apache.hadoop.mapreduce.TaskAttemptContext, but class was expected http://stackoverflow.com/questions/14354309/handling-error-found-interface-org-apache-hadoop-mapreduce-taskattemptcontext
+
+Mahout0.9 打patch使其支持 Hadoop2.2.0http://blog.csdn.net/u010967382/article/details/39088035
